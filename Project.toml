@@ -2,3 +2,9 @@ name = "ModifiedLatinHypercubeSampling"
 uuid = "7da3f81e-1687-48ef-899a-d2f3e9601796"
 authors = ["Johannes Kandelhardt"]
 version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+julia = "1.5, 1.5.1, 1.5.2"
