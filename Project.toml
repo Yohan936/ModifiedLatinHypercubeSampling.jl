@@ -1,0 +1,4 @@
+name = "ModifiedLatinHypercubeSampling"
+uuid = "7da3f81e-1687-48ef-899a-d2f3e9601796"
+authors = ["Johannes Kandelhardt"]
+version = "0.1.0"
