@@ -1,5 +1,4 @@
 # ModifiedLatinHypercubeSampling.jl
-\emph{ModifiedLatinHypercubeSampling.jl} 
 
 A lightweight package for quickly obtaining efficient draws based on Hess, Train, Polak (2004).
 Function <mlhs(R, D)> provides R draws in D dimensions. 
